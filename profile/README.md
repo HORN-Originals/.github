@@ -1,4 +1,4 @@
-# Open Source Projects we fund
+# Open Source Projects we are funding
 
 [![lutris_Logo](https://github.com/HORN-Originals/.github/assets/73217346/ef83cf09-2458-4424-a8b3-3fdb062f163a)](https://lutris.net/)
 
