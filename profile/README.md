@@ -1,14 +1,15 @@
 # Open Source Projects we are funding
 
-[![lutris_Logo](https://github.com/HORN-Originals/.github/assets/73217346/ef83cf09-2458-4424-a8b3-3fdb062f163a)](https://lutris.net/)
+[![lutris_Logo](https://github.com/HORN-Originals/.github/assets/73217346/307f24d1-ff8a-42ef-8c6c-4ec97b2a1b51)](https://lutris.net/)
 
-[![kde_Logo](https://github.com/HORN-Originals/.github/assets/73217346/9addb8ac-20f4-4f57-ad42-9562652f10b9)](https://kde.org/)
+[![kde_Logo](https://github.com/HORN-Originals/.github/assets/73217346/e0793af4-e13b-4c2a-940d-aa300c6a6aa4)](https://kde.org/)
 
-[![Gnome_Logo](https://github.com/HORN-Originals/.github/assets/73217346/09ee6c06-f291-432e-9a6b-6cc0e3c10672)](https://www.gnome.org/)
+[![Gnome_Logo](https://github.com/HORN-Originals/.github/assets/73217346/35e36c28-cc8b-4159-b0e7-e5a3f3f03134)](https://www.gnome.org/)
 
-[![Debian_Logo](https://github.com/HORN-Originals/.github/assets/73217346/dbbbd056-f126-4316-a0a2-a5e606c08cf5)](https://www.debian.org/)
+[![Debian_Logo](https://github.com/HORN-Originals/.github/assets/73217346/4ff40a1d-8452-48b1-86a6-2d7f8040e452)](https://www.debian.org/)
 
-[![Bottles_Logo](https://github.com/HORN-Originals/.github/assets/73217346/b186226a-b8a9-4bcf-8999-74e2e32e8d51)](https://usebottles.com/)
+[![Bottles_Logo](https://github.com/HORN-Originals/.github/assets/73217346/112cbdff-0b23-4aa7-8c8b-9d153a6f7dfc)](https://usebottles.com/)
+
 
 _**Disclaimer:** We are not affiliated with any of the above mentioned projects, companies or individuals_
 
