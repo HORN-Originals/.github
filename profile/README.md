@@ -10,7 +10,7 @@
 
 [![Bottles_Logo](https://github.com/HORN-Originals/.github/assets/73217346/b186226a-b8a9-4bcf-8999-74e2e32e8d51)](https://usebottles.com/)
 
-
+_**Disclaimer:** We are not affiliated with any of the above mentioned projects, companies or individuals_
 
 <!--
 
